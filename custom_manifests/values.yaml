@@ -1,0 +1,7 @@
+exampleConfigMap:
+  enabled: true
+  testVars:
+    var1: this-value
+    var2: that-value
+    var3: the-value
+    var4: other-value
